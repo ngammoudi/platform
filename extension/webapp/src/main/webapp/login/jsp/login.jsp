@@ -166,9 +166,25 @@
                 <div>
                     <a href="<%= contextPath + forgotPasswordPath %>" title="<%=res.getString("gatein.forgotPassword.loginLinkTitle")%>"><%=res.getString("gatein.forgotPassword.loginLinkTitle")%></a>
                 </div>
+<div>
+<h3>Information:</h3>
+<!--
+<li>Keep translating eXo Platform 4.2, click <a target="_blank" href="http://translations-review-plf4.2.exoplatform.org/">here</a></li>
+-->
+<ul>
+<li>This server has been updated to eXo Platform 4.3</li>
+<li>More information, please visit <a target="_blank" href="http://community.exoplatform.com/portal/g/:spaces:translations/translations">Community</a></li>
+</li>
+</ul>
+</div>
 				<div id="UIPortalLoginFormAction" class="loginButton">
 					<button class="button" tabindex="4"  onclick="login();"><%=res.getString("portal.login.Signin")%></button>
 				</div>
+<script type="text/javascript">
+  var _jipt = [];
+  _jipt.push(['project', 'exo-platform']);
+</script>
+<script type="text/javascript" src="//cdn.crowdin.net/jipt/jipt.js"></script>
 
                 <script type='text/javascript'>
 
