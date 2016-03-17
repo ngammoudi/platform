@@ -27,7 +27,7 @@
 <affectedNodeTypeNames>Vpliva na vrste vozlišč:</affectedNodeTypeNames>
 <navigationNode>Vozlišče za krmarjenje:</navigationNode>
 <index>Indeks:</index>
-<clickable>Se lahko klikne:</clickable>
+<clickable>Klikljivo:</clickable>
 <page>Stran:</page>
 <childrenPage>Podrejena stran:</childrenPage>
 </label>
@@ -39,7 +39,7 @@
 <Visible>Vidno:</Visible>
 <NavigationNodeInputSet>Ciljno nadrejeno krmarjenje:</NavigationNodeInputSet>
 <Index>Vrstni red prikaza:</Index>
-<Clickable>Se lahko klikne:</Clickable>
+<Clickable>Klikljivo:</Clickable>
 <NavigationControls>Kontrolniki za krmarjenje</NavigationControls>
 <ListTargetPageFormInputSet>Strani za seznam:</ListTargetPageFormInputSet>
 <ListShowCLVByStringInput>Ime parametra:</ListShowCLVByStringInput>
@@ -79,7 +79,7 @@
 </ListTargetPageFormInputSet>
 <DetailTargetPageInputSet>
 <title>
-<SelectDetailTargetPage>Izberite podrejeno ciljno stran</SelectDetailTargetPage>
+<SelectDetailTargetPage>Izberi podrejeno ciljno stran</SelectDetailTargetPage>
 <RemoveDetailTargetPage>Ponastavi</RemoveDetailTargetPage>
 </title>
 </DetailTargetPageInputSet>
