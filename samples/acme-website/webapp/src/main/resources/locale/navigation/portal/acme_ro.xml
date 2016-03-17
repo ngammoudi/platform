@@ -11,12 +11,12 @@
       <detail>Detalii</detail>
   <catalog>Catalog</catalog>
       <printviewer>Printează pagina</printviewer>
-      <searchResult>Căutare</searchResult>
+      <searchResult>Search</searchResult>
       <newAccount>Cont nou</newAccount>
       <groupnavigation>Navigare grupuri</groupnavigation>
       <portalnavigation>Navigare portal</portalnavigation>
       <documents>Documente</documents>
-      <unifiedSearch>Căutare</unifiedSearch>
+      <unifiedSearch>Search</unifiedSearch>
     </acme>
   </portal>
 </bundle>

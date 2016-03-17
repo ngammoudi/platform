@@ -23,12 +23,12 @@
 <Product>
 <dialog>
 <label>
-<name>Nume</name>
+<name>Name</name>
 <title>Titlu</title>
 <illustrationImage>Imagine ilustrație</illustrationImage>
 <summary>Rezumat</summary>
-<benefits>Beneficii</benefits>
-<features>Caracteristici</features>
+<benefits>Benefits</benefits>
+<features>Features</features>
 </label>
 </dialog>
 </Product>
