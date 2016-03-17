@@ -53,7 +53,7 @@
          <StartEvent>Od</StartEvent>
          <Calendar>Wybierz kalendarz</Calendar>
          <all-day>Wszystkie dni</all-day>
-         <defaultCalendarId>Domyślne</defaultCalendarId>
+         <defaultCalendarId>Default</defaultCalendarId>
       </label>
       <msg>
          <summary-field-required>Pole "Tytuł" jest wymagane.</summary-field-required>
